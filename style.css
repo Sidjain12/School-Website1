@@ -8,3 +8,15 @@
     top:0;
     z-index:10;
 }
+.Travel_maindiv{
+    border: 1px solid lightgrey;
+}
+.Travel_maindiv img{
+width:100%;
+}
+.Travel_maindiv h5{
+margin: 20px;    
+}
+.Travel_maindiv p{
+    margin: 20px;
+}
