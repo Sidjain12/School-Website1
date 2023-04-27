@@ -12,7 +12,8 @@
     border: 1px solid lightgrey;
 }
 .Travel_maindiv img{
-width:100%;
+width:500px;
+height: 500px;
 }
 .Travel_maindiv h5{
 margin: 20px;    
