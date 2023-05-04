@@ -12,12 +12,27 @@
     border: 1px solid lightgrey;
 }
 .Travel_maindiv img{
-width:500px;
-height: 500px;
+width:100%;
 }
 .Travel_maindiv h5{
 margin: 20px;    
 }
 .Travel_maindiv p{
     margin: 20px;
+}
+.movie_head{
+    font-size:20px ;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px; 
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:orange;
+}
+.movie_text img{
+    width: 250px;
+    height: 350px;
 }
